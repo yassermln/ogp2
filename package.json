@@ -1,0 +1,20 @@
+{
+  "name": "open-game-panel",
+  "version": "1.0.0",
+  "description": "Open Game Panel - Modern web interface for game server management",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'Build completed - static files ready'",
+    "start": "echo 'Starting server...'",
+    "dev": "echo 'Development server ready'"
+  },
+  "keywords": [
+    "game-panel",
+    "server-management",
+    "web-interface"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
